@@ -5,5 +5,6 @@ public class HelloGit {
         System.out.println("hello git");
         System.out.println("更新1");
         System.out.println("new branch");
+        System.out.println("bra1 edit");
     }
 }
