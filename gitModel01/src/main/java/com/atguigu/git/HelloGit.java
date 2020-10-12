@@ -8,6 +8,7 @@ public class HelloGit {
         System.out.println("master edit");
         System.out.println("bra1 edit");
         System.out.println("页面编辑");
+        System.out.println("idea编辑");
     }
     
 }
